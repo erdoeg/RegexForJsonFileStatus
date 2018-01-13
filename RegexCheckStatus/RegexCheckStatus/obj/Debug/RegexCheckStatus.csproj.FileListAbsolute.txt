@@ -1,0 +1,7 @@
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\bin\Debug\RegexCheckStatus.exe.config
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\bin\Debug\RegexCheckStatus.exe
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\bin\Debug\RegexCheckStatus.pdb
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\obj\Debug\RegexCheckStatus.csprojResolveAssemblyReference.cache
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\obj\Debug\RegexCheckStatus.csproj.CoreCompileInputs.cache
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\obj\Debug\RegexCheckStatus.exe
+C:\Users\vivianem\Desktop\cSharp\RegexCheckStatus\RegexCheckStatus\obj\Debug\RegexCheckStatus.pdb

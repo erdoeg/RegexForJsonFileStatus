@@ -1,0 +1,73 @@
+{
+  "rows": [
+    {
+      "displayName": "Proponente",
+      "statusSignature": "signed",
+      "displayRow": "1",
+      "documents": [
+        {
+          "pdfName": "71623981_01_11122017121238.pdf",
+          "mandatorySignatureList": [
+            "topmostSubform[0].Page1[0].SOTermo_1[0]",
+            "topmostSubform[0].Page9[0].SOEmitente_2[0]",
+            "topmostSubform[0].Page5[0].POPhotoEmitente[0]",
+            "topmostSubform[0].Page4[0].SORubEmitente_4[0]",
+            "topmostSubform[0].Page3[0].SORubEmitente_3[0]",
+            "topmostSubform[0].Page2[0].SORubEmitente_2[0]",
+            "topmostSubform[0].Page5[0].SOEmitente_1[0]"
+          ]
+        },
+        {
+          "pdfName": "71623981_02_11122017121238.pdf",
+          "mandatorySignatureList": [
+            "topmostSubform[0].Page1[0].SOCet_1[0]"
+          ]
+        },
+        {
+          "pdfName": "71623981_03_11122017121238.pdf",
+          "mandatorySignatureList": [
+            "topmostSubform[0].Page1[0].SOSeg_1[0]"
+          ]
+        }
+      ]
+    },
+    {
+      "displayName": "Avalista",
+      "statusSignature": "signed",
+      "displayRow": "2",
+      "documents": [
+        {
+          "pdfName": "71623981_01_11122017121238.pdf",
+          "mandatorySignatureList": [
+            "topmostSubform[0].Page1[0].SOTermo_1[0]",
+            "topmostSubform[0].Page9[0].SOEmitente_2[0]",
+            "topmostSubform[0].Page5[0].POPhotoEmitente[0]",
+            "topmostSubform[0].Page4[0].SORubEmitente_4[0]",
+            "topmostSubform[0].Page3[0].SORubEmitente_3[0]",
+            "topmostSubform[0].Page2[0].SORubEmitente_2[0]",
+            "topmostSubform[0].Page5[0].SOEmitente_1[0]"
+          ]
+        }
+      ]
+    },
+        {
+      "displayName": "Avalista_2",
+      "statusSignature": "signed",
+      "displayRow": "3",
+      "documents": [
+        {
+          "pdfName": "71623981_01_11122017121238.pdf",
+          "mandatorySignatureList": [
+            "topmostSubform[0].Page1[0].SOTermo_1[0]",
+            "topmostSubform[0].Page9[0].SOEmitente_2[0]",
+            "topmostSubform[0].Page5[0].POPhotoEmitente[0]",
+            "topmostSubform[0].Page4[0].SORubEmitente_4[0]",
+            "topmostSubform[0].Page3[0].SORubEmitente_3[0]",
+            "topmostSubform[0].Page2[0].SORubEmitente_2[0]",
+            "topmostSubform[0].Page5[0].SOEmitente_1[0]"
+          ]
+        }
+      ]
+    },
+  ]
+}
